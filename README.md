@@ -1,6 +1,6 @@
 # core-skills-for-cybersec
 Skills 
-  - [# Networking](./networking)  
+  - # [Networking](./networking)  
   - [Linux](./linux)  
         - [Networking in Linux](./linux/networking)  
   - [Windows](./windows)  
