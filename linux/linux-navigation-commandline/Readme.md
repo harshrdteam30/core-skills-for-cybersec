@@ -2,12 +2,13 @@
 Bash (Bourne Again Shell) program. Bash is the default shell for most Linux distributions, making it an essential tool to learn.
 
 ## Commands 
-- echo "Hello" { prints hello }  
-
+- echo "Hello"   
+	prints hello  
+  
 - pwd  
 	shows current working directory  
   
-- cd ../home../$HOME
+- cd ../home../$HOME  
 	changes current working directory  
   
 - ls  
@@ -20,4 +21,13 @@ Bash (Bourne Again Shell) program. Bash is the default shell for most Linux dist
 - file  
 	determine the file type  
   
+- cat  
+	shows file content  
+  
+- [less](./less.md)  
+  
+- history  
+	shows last 100 used commands  
+  
+- cp
 	
