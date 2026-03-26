@@ -1,4 +1,4 @@
 # core-skills-for-cybersec
 Skills 
   - Networking
-  - [Linux]{./linux}
+  - [Linux](./linux)
