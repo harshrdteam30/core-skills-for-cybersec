@@ -29,42 +29,43 @@ Bash (Bourne Again Shell) program. Bash is the default shell for most Linux dist
 - history  
 	shows last 100 used commands  
   
-- cp
-	cp -r source/ dest/ 
-	copies each and every file recursively from source to dest.
-
-- mv 
-	for moving content
-
-- mkdir
-	create directory
-	mkdir -p dir/dir1/dir2 ( all created simultaneously)
-
-- rm 	
-	remove file
-	rm -f (force ful deletion)
-	rm -i (interactive deletion)
-	rm -r (directory)
-	rm -rf (recursively delete every file and folder)
+- cp  
+	cp -r source/ dest/    
+	copies each and every file recursively from source to dest.  
+  
+- mv   
+	for moving content  
+  
+- mkdir  
+	create directory  
+	mkdir -p dir/dir1/dir2 ( all created simultaneously)  
+  
+- rm  
+  	remove file  
+	rm -f (force ful deletion)  
+	rm -i (interactive deletion)  
+	rm -r (directory)  
+	rm -rf (recursively delete every file and folder)  
 	
-- rmdir 
-	delete empty directory
+- rmdir   
+	delete empty directory  
+  
+- find  
+	find /location -name "file" 	finds file  
+	find /location -type d(for directory) -name {foldername}	finds directory  
 
-- find
-	find /location -name "file" 	finds file
-	find /location -type d(for directory) -name {foldername}	finds directory
+- help  
+  	help {command}   
 
-- help
-	help {command} 
-
-- man
-	man "comm" 	manual pages 
-
-- whatis "cmd"
-	know about command
-
-- alias 
-	alias update="sudo apt update"
-	(for creating shortcuts )
-
-- exit & logout
+- man  
+  	man "comm" 	manual pages 
+  
+- whatis "cmd"  
+	know about command  
+  
+- alias   
+	alias update="sudo apt update"  
+	(for creating shortcuts )  
+  
+- exit & logout  
+  
